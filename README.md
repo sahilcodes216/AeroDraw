@@ -36,6 +36,19 @@ The project tracks hand movements through a webcam and converts finger motion in
    ```
 - ✍️**NOTE: Download latest version of all required modules in virtual environment**
 
+# 🎮 Controls & Hand Gestures
+
+| Gesture / Key | Function |
+|---|---|
+| ☝ Index Finger | Draw letter in air |
+| ✌ Index + Middle Finger | Select colour from top bar |
+| 🖐 All 5 Fingers | Recognize letter and add to word |
+| ⌨️ SPACE Key | Add space between words |
+| ⌫ BACKSPACE Key | Delete last letter |
+| 🔤 A Key | Clear all words |
+| ❌ Q Key | Quit the application |
+
+
 # 📸 How It Works
 **1. Webcam captures hand movements.** <br>
 **2. MediaPipe detects hand landmarks.** <br>
