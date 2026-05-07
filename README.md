@@ -31,7 +31,9 @@ The project tracks hand movements through a webcam and converts finger motion in
 # Create Virtual Environment (A Better Option)
 - Creating a virtual environment keeps project dependencies separate from your system Python. And, <br>
   **📥 Install Required Modules in virtual**
-   ```pip install -r requirements.txt```
+   ```bash
+   pip install -r requirements.txt
+   ```
 
 # 📸 How It Works
 **1. Webcam captures hand movements.** <br>
