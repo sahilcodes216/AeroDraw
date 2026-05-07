@@ -17,11 +17,11 @@ The project tracks hand movements through a webcam and converts finger motion in
 | OpenCV     | Video capturing & image processing  |
 | Mediapipe  | Hand landmark detection & tracking  |
 | NumPy      | Numerical operations                |
-- **Other Modules(Tesseract, Pillow)**
+- **Other Modules (Tesseract, Pillow)**
 
 # 📂 Project Structure
 CV_Project/ <br>
-│
+│           <br>
 ├── vision_assets/           # Assets used in the project <br>
 ├── AeroDrawModule.py        # Main drawing module <br>
 ├── GestureTracker.py        # Hand tracking & gesture detection <br>
@@ -45,6 +45,6 @@ CV_Project/ <br>
 
 # 🤝 Connect With Me
 Feel free to connect with me:<br>
-**💼 LinkedIn:** ```https://www.linkedin.com/in/sahil-verma-b40b38385?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app```
+**💼 LinkedIn:** https://www.linkedin.com/in/sahil-verma-b40b38385?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
   
