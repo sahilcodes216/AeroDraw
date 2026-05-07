@@ -1,5 +1,5 @@
-opencv-python==latest
-mediapipe==latest
-numpy==latest
-pytesseract==latest
-Pillow==latest
+opencv-python
+mediapipe
+numpy
+pytesseract
+Pillow
