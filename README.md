@@ -20,13 +20,13 @@ The project tracks hand movements through a webcam and converts finger motion in
 - **Other Modules (Tesseract, Pillow)**
 
 # 📂 Project Structure
-CV_Project/ <br>
+**CV_Project/** <br>
 │           <br>
-├── vision_assets/           # Assets used in the project <br>
-├── AeroDrawModule.py        # Main drawing module <br>
-├── GestureTracker.py        # Hand tracking & gesture detection <br>
-├── hand_landmarker.task     # MediaPipe hand landmark model <br>
-├── requirements.txt         # Required Python modules <br>
+├── vision_assets/           **(Assets used in the project)* <br>
+├── AeroDrawModule.py        **(Main drawing module)* <br>
+├── GestureTracker.py        **(Hand tracking & gesture detection)* <br>
+├── hand_landmarker.task     **(MediaPipe hand landmark model)* <br>
+├── requirements.txt         **(Required Python modules)* <br>
 
 # Create Virtual Environment (A Better Option)
 - Creating a virtual environment keeps project dependencies separate from your system Python. And, <br>
